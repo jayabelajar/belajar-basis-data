@@ -63,7 +63,7 @@ Isi file meliputi konsep dasar, perancangan database, SQL, keamanan data, hingga
 ## 📖 Cara Menggunakan
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/belajar-basis-data.git
+   git clone https://github.com/jayabelajar/belajar-basis-data.git
    cd belajar-basis-data
    ```
 2. Buka file Markdown dengan text editor (VSCode / Obsidian / GitHub).  
@@ -79,7 +79,7 @@ Kamu bisa bantu menambah contoh SQL, memperbaiki penjelasan, atau membuat ilustr
 
 Langkah kontribusi:
 ```bash
-git fork https://github.com/username/belajar-basis-data.git
+git fork https://github.com/jayabelajar/belajar-basis-data.git
 git checkout -b perbaikan-materi
 git commit -m "Tambah contoh SQL di BAB 5"
 git push origin perbaikan-materi

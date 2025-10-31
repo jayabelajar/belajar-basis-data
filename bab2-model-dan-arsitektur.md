@@ -141,4 +141,4 @@ Keduanya saling melengkapi untuk menghasilkan sistem database yang efisien, aman
 
 ---
 
-📚 **Selanjutnya:** BAB 3 – [BAB 2 – Perancangan Basis Data →](./bab3-perancangan-basis-data.md)
+📚 **Selanjutnya:** [BAB 3 – Perancangan Basis Data →](./bab3-perancangan-basis-data.md)

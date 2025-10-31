@@ -185,4 +185,4 @@ Perancangan basis data yang baik akan menghasilkan sistem yang:
 
 ---
 
-📚 **Selanjutnya:** BAB 4 – Sistem Manajemen Basis Data (DBMS)
+📚 **Selanjutnya:** [BAB 3 – Sistem Manajemen Basis Data (DBMS) →](./bab3-dbms.md)

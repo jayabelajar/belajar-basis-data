@@ -23,17 +23,17 @@ Isi file meliputi konsep dasar, perancangan database, SQL, keamanan data, hingga
 ## 📚 Daftar Isi Materi
 | No | Judul Bab | File |
 |----|------------|------|
-| 1️⃣ | **BAB 1 – Pengenalan Basis Data** | [📄 `bab1-pengenalan-basis-data.md`](./bab1-pengenalan-basis-data.md) |
-| 2️⃣ | **BAB 2 – Model dan Arsitektur Basis Data** | [📄 `bab2-model-dan-arsitektur.md`](./bab2-model-dan-arsitektur.md) |
-| 3️⃣ | **BAB 3 – Perancangan Basis Data** | [📄 `bab3-perancangan-basis-data.md`](./bab3-perancangan-basis-data.md) |
-| 4️⃣ | **BAB 4 – Sistem Manajemen Basis Data (DBMS)** | [📄 `bab4-dbms.md`](./bab4-dbms.md) |
-| 5️⃣ | **BAB 5 – Bahasa SQL (Structured Query Language)** | [📄 `bab5-sql.md`](./bab5-sql.md) |
-| 6️⃣ | **BAB 6 – Integritas dan Keamanan Data** | [📄 `bab6-integritas-dan-keamanan.md`](./bab6-integritas-dan-keamanan.md) |
-| 7️⃣ | **BAB 7 – Transaksi dan Konkurensi** | [📄 `bab7-transaksi-dan-konkurensi.md`](./bab7-transaksi-dan-konkurensi.md) |
-| 8️⃣ | **BAB 8 – Optimisasi dan Indeks** | [📄 `bab8-optimisasi-dan-indeks.md`](./bab8-optimisasi-dan-indeks.md) |
-| 9️⃣ | **BAB 9 – Basis Data Terdistribusi dan Replikasi** | [📄 `bab9-basis-data-terdistribusi.md`](./bab9-basis-data-terdistribusi.md) |
-| 🔟 | **BAB 10 – Tren dan Teknologi Database Modern** | [📄 `bab10-tren-database-modern.md`](./bab10-tren-database-modern.md) |
-| 📎 | **Lampiran Contoh SQL & Glosarium** | [📄 `lampiran-contoh-sql.md`](./lampiran-contoh-sql.md) |
+| 1️⃣ | **BAB 1 – Pengenalan Basis Data** | [📄 `bab1-pengenalan-basis-data.md`](./belajar/bab1-pengenalan-basis-data.md) |
+| 2️⃣ | **BAB 2 – Model dan Arsitektur Basis Data** | [📄 `bab2-model-dan-arsitektur.md`](./belajar/bab2-model-dan-arsitektur.md) |
+| 3️⃣ | **BAB 3 – Perancangan Basis Data** | [📄 `bab3-perancangan-basis-data.md`](./belajar/bab3-perancangan-basis-data.md) |
+| 4️⃣ | **BAB 4 – Sistem Manajemen Basis Data (DBMS)** | [📄 `bab4-dbms.md`](./belajar/bab4-dbms.md) |
+| 5️⃣ | **BAB 5 – Bahasa SQL (Structured Query Language)** | [📄 `bab5-sql.md`](./belajar/bab5-sql.md) |
+| 6️⃣ | **BAB 6 – Integritas dan Keamanan Data** | [📄 `bab6-integritas-dan-keamanan.md`](./belajar/bab6-integritas-dan-keamanan.md) |
+| 7️⃣ | **BAB 7 – Transaksi dan Konkurensi** | [📄 `bab7-transaksi-dan-konkurensi.md`](./belajar/bab7-transaksi-dan-konkurensi.md) |
+| 8️⃣ | **BAB 8 – Optimisasi dan Indeks** | [📄 `bab8-optimisasi-dan-indeks.md`](./belajar/bab8-optimisasi-dan-indeks.md) |
+| 9️⃣ | **BAB 9 – Basis Data Terdistribusi dan Replikasi** | [📄 `bab9-basis-data-terdistribusi.md`](./belajar/bab9-basis-data-terdistribusi.md) |
+| 🔟 | **BAB 10 – Tren dan Teknologi Database Modern** | [📄 `bab10-tren-database-modern.md`](./belajar/bab10-tren-database-modern.md) |
+| 📎 | **Lampiran Contoh SQL & Glosarium** | [📄 `lampiran-contoh-sql.md`](./belajar/lampiran-contoh-sql.md) |
 
 ---
 

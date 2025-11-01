@@ -138,4 +138,4 @@ Ciri-ciri DBMS yang baik:
 
 ---
 
-📚 **Selanjutnya:** BAB 5 – Bahasa SQL
+📚 **Selanjutnya:** BAB 5 – Bahasa SQL →](./bab4-sql.md)

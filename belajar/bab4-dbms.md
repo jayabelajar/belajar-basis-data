@@ -137,5 +137,4 @@ Ciri-ciri DBMS yang baik:
 > ⚙️ *“DBMS adalah jantung dari sistem informasi — tanpa DBMS, data hanyalah tumpukan angka tanpa makna.”*
 
 ---
-
-📚 **Selanjutnya:** BAB 5 – Bahasa SQL →](./bab4-sql.md)
+📚 **Selanjutnya:** [BAB 5 - Bahasa SQL →](./bab4-sql.md)

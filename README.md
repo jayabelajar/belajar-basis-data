@@ -96,11 +96,10 @@ Silakan gunakan, ubah, dan bagikan ulang dengan mencantumkan kredit penulis.
 
 ---
 
-## 👤 Tentang Penulis
+## 👤 Penulis
 **Mulyo Anjang Jaya Kusuma**  
-🎓 Mahasiswa Teknik Informatika  
-💻 Web Developer & Database Enthusiast  
-🌐 [GitHub](https://github.com/jayabelajar) | [LinkedIn](https://linkedin.com/in/jykusuma)
+🎓 Mahasiswa Teknik Informatika • IT Enthusiast  
+🌐 [GitHub](https://github.com/jayabelajar) • [LinkedIn](https://linkedin.com/jykusuma)
 
 > “Database yang baik bukan hanya menyimpan data, tapi membantu kita memahami makna di baliknya.”
 
@@ -108,7 +107,9 @@ Silakan gunakan, ubah, dan bagikan ulang dengan mencantumkan kredit penulis.
 
 <div align="center">
 
-📘 **Belajar Basis Data** © 2025 — Disusun oleh [Jayabelajar](https://github.com/jayabelajar)  
-Lisensi [MIT](./LICENSE) • Dibuat dengan ❤️ & ☕  
+© 2025 • **Belajar UI/UX Design**  
+Dibuat dengan ☕ oleh **Mulyo Anjang Jaya Kusuma**  
+Versi: `v1.1 Final Edition`  
 
 </div>
+

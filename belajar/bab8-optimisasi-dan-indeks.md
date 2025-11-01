@@ -173,4 +173,4 @@ Prinsip utama:
 
 ---
 
-📚 **Selanjutnya:** BAB 9 – Basis Data Terdistribusi dan Replikasi
+📚 **Selanjutnya:** [BAB 9 - Basis Data Terdistribusi →](./bab9-basis-data-terdistribusi.md)

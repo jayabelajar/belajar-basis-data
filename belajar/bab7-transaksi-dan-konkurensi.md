@@ -159,4 +159,4 @@ Keduanya memastikan:
 
 ---
 
-📚 **Selanjutnya:** BAB 8 – Optimisasi dan Indeks
+📚 **Selanjutnya:** [BAB 8 - Optimasi dan Indeks →](./bab8-optimasi-dan-indeks.md)

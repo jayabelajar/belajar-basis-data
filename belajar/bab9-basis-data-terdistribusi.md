@@ -182,4 +182,4 @@ Keuntungan utama:
 
 ---
 
-📚 **Selanjutnya:** BAB 10 – Tren dan Teknologi Database Modern
+📚 **Selanjutnya:** [BAB 10 - Tren Database Modern →](./bab10-tren-database-modern.md)

@@ -175,4 +175,4 @@ Database yang aman dan konsisten memastikan data:
 
 ---
 
-📚 **Selanjutnya:** BAB 7 – Transaksi dan Konkurensi
+📚 **Selanjutnya:** [BAB 7 - Integritas dan Keamanan →](./bab7-transaksi-dan-konkurensi.md)

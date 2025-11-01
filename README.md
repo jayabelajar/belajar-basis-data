@@ -107,7 +107,7 @@ Silakan gunakan, ubah, dan bagikan ulang dengan mencantumkan kredit penulis.
 
 <div align="center">
 
-© 2025 • **Belajar UI/UX Design**  
+© 2025 • **Belajar Basis Data**  
 Dibuat dengan ☕ oleh **Mulyo Anjang Jaya Kusuma**  
 Versi: `v1.1 Final Edition`  
 

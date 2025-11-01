@@ -189,4 +189,4 @@ Ciri utama SQL:
 
 ---
 
-📚 **Selanjutnya:** BAB 6 – Integritas dan Keamanan Data
+📚 **Selanjutnya:** [BAB 6 - Integritas dan Keamanan →](./bab6-integritas-dan-keamanan.md)
